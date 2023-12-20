@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633461812245",
+    "project_id": "projectmassive-aec93",
+    "storage_bucket": "projectmassive-aec93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633461812245:android:d86f1e5b69138dfa21b21c",
+        "android_client_info": {
+          "package_name": "com.example.projectmassive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMb4hJSDYe_PZaW6wmAb6-qlQXstB2Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

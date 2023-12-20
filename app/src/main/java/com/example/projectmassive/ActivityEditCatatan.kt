@@ -3,9 +3,9 @@ package com.example.projectmassive
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class activity_register : AppCompatActivity() {
+class ActivityEditCatatan : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_register)
+        setContentView(R.layout.activity_edit_catatan)
     }
 }

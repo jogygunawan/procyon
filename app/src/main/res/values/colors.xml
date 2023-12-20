@@ -3,8 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="primarycolor">#937DC2</color>
-    <color name="secondcolor">#C689C6</color>
+    <color name="secondcolor">#EBD4EB</color>
     <color name="bgcolor">#F6FAFD</color>
+    <color name="ping">#E8A0BF</color>
     <color name="textcolor">#000000</color>
     <color name="abuabu">#D9D9D9</color>
+    <color name="stroke">#8C8A8A</color>
+    <color name="gelap">#545454</color>
 </resources>
